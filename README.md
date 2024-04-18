@@ -10,8 +10,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+VICK-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ RHODVICK TECH ;PUBLIC+RELESED+DATE;2024/04/18;." alt="Typing SVG" /></a>
   </p>
   <p align="center"> 
-  <a href="https://github.com/Rhodvick/vick/stargazers">
-    <img src="https://img.shields.io/github/stars/Rhodvick/vick?style=social">
+  <a href="https://github.com/Rhodvick/vick-md/stargazers">
+    <img src="https://img.shields.io/github/stars/Rhodvick/vick-md?style=social">
 
  <p align="center">
   <a href="https://github.com/Rhodvick/vick-md/fork">
