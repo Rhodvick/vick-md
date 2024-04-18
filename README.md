@@ -274,4 +274,4 @@ SUPPORT GROUP: <a href="https://whatsapp.com/channel/0029VabySTR9Bb5upWFhMv1N"><
 
 ## License
 
-The blade available under the [GPL-3 license](https://github.com/Bladeh4x/BLADE-MD/blob/main/LICENES 
+The vick available under the [GPL-3 license](https://github.com/Rhodvick/vick-md/blob/main/LICENCES 
