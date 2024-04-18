@@ -19,16 +19,16 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : BLADE-MD
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/SuhailTechInfo
-   * @description : BLADE-MD ,A Multi-functional whatsapp user bot.
+   * @project_name : VICK-MD
+   * @author : Rhodvick Tech Info
+   * @youtube : https://www.youtube.com/@Rhodvick
+   * @description : VICK-MD ,A Multi-functional whatsapp user bot.
    * @version 1.0.1
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * Created By Suhail Tech Info.
-   * © 2023 Suhail-Md.
+   * Created By Rhodvick Tech Info.
+   * © 2023 Vick-Md.
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -69,7 +69,7 @@ async(Void, citel, text,{ isCreator }) => {
       let num = citel.sender;
   
       var welcome_messages = text.replace(/@pp/g, '').replace(/@user/gi, `@${num.split("@")[0]}`).replace(/@gname/gi, metadata.subject).replace(/@desc/gi, metadata.desc);
-      try {  ppuser = await Void.profilePictureUrl(num, 'image') }catch { ppuser = 'https://telegra.ph/file/93f1e7e8a1d7c4486df9e.jpg' ; }
+      try {  ppuser = await Void.profilePictureUrl(num, 'image') }catch { ppuser = 'https://telegra.ph/file/25b60ba1474cffb21969c.jpg' ; }
       return await Void.sendMessage(citel.chat, { image: { url: ppuser }, caption: welcome_messages,} )
 
 
@@ -107,7 +107,7 @@ async(Void, citel, text,{ isCreator }) => {
     var ppuser;
     let num = citel.sender;
     var goodbye_messages = text.replace(/@pp/g, '').replace(/@user/gi, `@${num.split("@")[0]}`).replace(/@gname/gi, metadata.subject).replace(/@desc/gi, metadata.desc);
-    try {  ppuser = await Void.profilePictureUrl(num, 'image') }catch { ppuser = 'https://telegra.ph/file/93f1e7e8a1d7c4486df9e.jpg' ; }
+    try {  ppuser = await Void.profilePictureUrl(num, 'image') }catch { ppuser = 'https://telegra.ph/file/25b60ba1474cffb21969c.jpg' ; }
 
         return await Void.sendMessage(citel.chat, { image: { url: ppuser }, caption: goodbye_messages, })
 
@@ -314,7 +314,7 @@ async(Void, citel, text) => {
             var num = citel.quoted.sender.split('@')[0];
             let pfp;
             try  {  pfp = await Void.profilePictureUrl(citel.quoted.sender, "image"); } 
-            catch (e) { pfp = await Void.profilePictureUrl(citel.sender, "image") ||  'https://telegra.ph/file/29a8c892a1d18fdb26028.jpg' ; }    //|| 'https://telegra.ph/file/29a8c892a1d18fdb26028.jpg' ;  }
+            catch (e) { pfp = await Void.profilePictureUrl(citel.sender, "image") ||  'https://telegra.ph/file/25b60ba1474cffb21969c.jpg' ; }    //|| 'https://telegra.ph/file/25b60ba1474cffb21969c.jpg' ;  }
             
             let username = await sck1.findOne({ id: citel.quoted.sender });
             var tname = username.name;
