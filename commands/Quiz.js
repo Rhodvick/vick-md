@@ -21,8 +21,8 @@ const quizQuestions = [
     },
 
     {
-        question: "WHO IS THE OWNER OF BLADE-MD?",
-        options: ["A. bladeh4x", "B. Alextv", "C. mike"],
+        question: "WHO IS THE OWNER OF VICK-MD?",
+        options: ["A. RHODVICK", "B. MR KELLY", "C. RHODRVICK"],
         correctAnswer: "B"
     },
 
