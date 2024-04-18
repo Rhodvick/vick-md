@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Blade-MD
- * @author : salmanytofficial <https://github.com/Bladeh4x>
- * @description : Bladeh4x,A Multi-functional whatsapp bot.
+ * @project_name : VICK-MD
+ * @author : salmanytofficial <https://github.com/Rhodvick>
+ * @description : Rhodvick,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -91,7 +91,7 @@ cmd({
         citel.reply(`*Check your Pm ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `*Group Name: blade-Support*\n*Group Link:* https://chat.whatsapp.com/ErxOiX1qQgk9phDJhnUiDQ`,
+            caption: `*Group Name: Rhodvick-Support*\n*Group Link:* https://chat.whatsapp.com/KINAcH2snaT1PC3Az639ri`,
         });
 
     }
