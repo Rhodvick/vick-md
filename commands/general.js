@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : BLADE-MD
- * @author : salmanytofficial <https://github.com/Bladeh4x>
- * @description : BLADE, A Multi-functional whatsapp bot.
+ * @project_name : VICK-MD
+ * @author : Rhodvick <https://github.com/Rhodvick>
+ * @description : VICK, A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -136,13 +136,13 @@ cmd({
         let cap = `Hey ${citel.pushName}\n
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
-*🍁 Repo:* https://github.com/Bladeh4x/BLADE-MD
-*Group:* https://chat.whatsapp.com/DLniUfYVWR50sbkZDR8tBI
-*public grp:* https://chat.whatsapp.com/HTTzf69NNqWEU2v2yc7r0E
+*🍁 Repo:* https://github.com/Rhodvick/vick-md
+*Group:* https://chat.whatsapp.com/KINAcH2snaT1PC3Az639ri
+*Whatsapp Channel:* https://whatsapp.com/channel/0029VabySTR9Bb5upWFhMv1N
 *scan Qr:* https://secret-plateau-39898-43273a7c97e1.herokuapp.com/
-*youtube tt:* https://youtu.be/YLG9OYERa5I?si=1e5cbrtKVc8aL5BI
+*youtube tt:* https://youtube/@Rhodvick
 *Deploy Your Own:*-
-https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBladeh4x%2FBLADE-MD&template=https%3A%2F%2Fgithub.com%2FBladeh4x%2FBLADE-MD`
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FRhodvick%2Fvick-md&template=https%3A%2F%2Fgithub.com%2FRhodvickx%2Fvick-md`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
@@ -150,7 +150,7 @@ https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBladeh4x%
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "Blade-Repo",
+                    title: "vick-Repo",
                     body: "Easy to Use",
                     thumbnail: log0,
                     mediaType: 4,
