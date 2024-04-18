@@ -136,11 +136,11 @@ cmd({
         let cap = `Hey ${citel.pushName}\n
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
-*🍁 Repo:* https://github.com/Rhodvick/vick-md
+*🍁 Repo:* https://github.com/Rhodvick/vick-md/fork
 *Group:* https://chat.whatsapp.com/KINAcH2snaT1PC3Az639ri
 *Whatsapp Channel:* https://whatsapp.com/channel/0029VabySTR9Bb5upWFhMv1N
 *scan Qr:* https://secret-plateau-39898-43273a7c97e1.herokuapp.com/
-*youtube tt:* https://youtube/@Rhodvick
+*youtube tt:* https:/www./youtube.com/@Rhodvick
 *Deploy Your Own:*-
 https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FRhodvick%2Fvick-md&template=https%3A%2F%2Fgithub.com%2FRhodvickx%2Fvick-md`
         let buttonMessaged = {
