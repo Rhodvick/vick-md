@@ -18,7 +18,7 @@ cmd({
 
         async(Void,citel, text) => {
 
-citel.reply("```Injecting malware```")
+citel.reply("```RHODVICK Injecting malware```")
 
 await sleep(1000)
 
@@ -70,11 +70,11 @@ citel.reply("```System hyjacking on process.. \n Conecting to Server ```")
 
 await sleep(1000)
 
-citel.reply("```Divice successfully connected... \n Riciving data...```")
+citel.reply("```Device successfully connected... \n Riciving data...```")
 
 await sleep(1000)
 
-citel.reply("```Data hyjacked from divice 100% completed \n killing all evidence killing all malwares...```")
+citel.reply("```Data hyjacked from device 100% completed \n killing all evidence killing all malwares...```")
 
 await sleep(1000)
 
