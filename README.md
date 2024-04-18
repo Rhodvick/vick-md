@@ -1,6 +1,6 @@
  Fork the repo
     <br>
-<a href="https://github.com/Rhodvick/vick/fork"><img title="VICK-MD-1.0" src="https://img.shields.io/badge/FORK VICK-MD-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Rhodvick/vick-md/fork"><img title="VICK-MD-1.0" src="https://img.shields.io/badge/FORK VICK-MD-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/KINAcH2snaT1PC3Az639ri">
