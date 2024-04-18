@@ -1,14 +1,14 @@
 {
-  "name": "BLADE-MD",
+  "name": "VICK-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/5b8747782b8fb7312bd9d.jpg",
+  "logo": "https://telegra.ph/file/25b60ba1474cffb21969c.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "blade Bot", "blade","BLADE-MD","theme bot","multi device","baileys","Alex tv"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Alexdavid"
+      "value": "RHODVICK TECH"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -21,7 +21,7 @@
   "AUTO_READ_STATUS": {
     "description": "Fill the value true if you want bot view your Statuses.",
     "required" :false,
-    "value": "false"
+    "value": "true"
       },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/5b8747782b8fb7312bd9d.jpg"
+     "value": "https://telegra.ph/file/25b60ba1474cffb21969c.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -52,7 +52,7 @@
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
      "required" :false,
-     "value": "true"
+     "value": "false"
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
@@ -70,7 +70,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "put owner number"
+       "value": "254700150919"
  },	  
    "SESSION_ID": {
     "description": "DONT CUT BLADE-MD;;; WORD PUT YOURE SESSION ID HERE.",
@@ -88,7 +88,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are GOJO,blade-md,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "blade-md"
+     "value": "vick-md"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -101,11 +101,11 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "ALEXTV:"
+    "value": "RHODVICK TECH:"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "BLADE-MD"
+    "value": "VICK-MD"
   },
   "heroku": {
     "description": "Weather it is on heroku or not", 
