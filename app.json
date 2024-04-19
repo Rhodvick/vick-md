@@ -73,9 +73,9 @@
        "value": "254700150919"
  },	  
    "SESSION_ID": {
-    "description": "DONT CUT VICK-MD;;; WORD PUT YOURE SESSION ID HERE.",
+    "description": "DONT CUT BLADE-MD;;; WORD PUT YOURE SESSION ID HERE.",
     "required" :true,
-    "value": "VICK-MD;;;"
+    "value": "BLADE-MD;;;"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
