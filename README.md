@@ -35,7 +35,7 @@
 
 ## Deployment Methods
 ---
-1. ***Get [`SESSION ID`](https://secret-plateau-39898-43273a7c97e1.herokuapp.com//) [`SESSION ID 2`](https://blade-0wz6.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION ID`](https://rhodvick-6dc1403b3567.herokuapp.com/pair) [`SESSION ID 2`](https://blade-0wz6.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
    
 # ```EXTERNAL STUFF AND API```
 
