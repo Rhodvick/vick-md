@@ -2,7 +2,7 @@
   "name": "VICK-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/25b60ba1474cffb21969c.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "blade Bot", "blade","BLADE-MD","theme bot","multi device","baileys","Alex tv"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "blade","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
