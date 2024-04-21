@@ -1,4 +1,4 @@
-## Deploy on VPS or PC.
+## Deploy on VPS or PC or Termux.
 - You need to Install git,ffmpeg,curl,nodejs,yarn with pm2 
    1. Install git ffmpeg curl 
       ```
@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/Bladeh4x/BLADE-MD
-      cd BLADE-MD
+      git clone https://github.com/Rhodvick/vick-md
+      cd vick-md
       yarn install --network-concurrency 1
       ```
 
@@ -38,26 +38,26 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="92xxxxxxxxxx"
+      OWNER_NUMBER="254xxxxxxxxxx"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "Put Session Id Here"
       THUMB_IMAGE = "https://telegra.ph/file/8f6f537cc4103b48f3783.jpg"
       port = 5000
       email = "xxxxxxxxxxxxx@gmail.com"
       global_url = "www.tiktok/Blade_ffhx"
-      OWNER_NAME = "SALMAN"
+      OWNER_NAME = "Vick"
       AUTO_REACTION = false
-      FAKE_COUNTRY_CODE = 354
+      FAKE_COUNTRY_CODE = 212
       READ_MESSAGE = false
       PREFIX = .
-      WARN_COUNT = 3
-      DISABLE_PM = false
+      WARN_COUNT = 5
+      DISABLE_PM = true
       ANTI_BAD_WORD = "fuck"
-      LEVEL_UP_MESSAGE= true
+      LEVEL_UP_MESSAGE= false
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
-      THEME= GOJO
+      THEME= Vick
       WORKTYPE = public
-      PACK_INFO = "blade md"
+      PACK_INFO = "vick md"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
